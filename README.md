@@ -3,6 +3,6 @@ Principles Of Programming With C Language
 
 It's Challenges in C language to Learn Princirples of Programming.
 
-Done: Intro, Set1, Set2, Set3,set4Set5,Set6.
+Done: Intro, Set1, Set2, Set3, set4, Set5, Set6, midexam.
 
-To Do: Set7,Set8 + Midterm,Final Exam Challenges.
+To Do: Set7,Set8 + Final Exam Challenges.
